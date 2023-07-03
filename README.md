@@ -34,6 +34,7 @@ Retrieve the current exchange rate for a specific cryptocurrency against a fiat 
   "fiat": "usd",
   "rate": 30583.0
 }
+```
 
 # Exchange Rate API Documentation
 
