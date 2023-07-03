@@ -36,9 +36,7 @@ Retrieve the current exchange rate for a specific cryptocurrency against a fiat 
 }
 ```
 
-# Exchange Rate API Documentation
 
-This documentation provides details about the Exchange Rate API endpoints and their usage.
 
 ## Get Exchange Rate for Cryptocurrency
 
@@ -76,9 +74,7 @@ Retrieve the current exchange rates for a specific cryptocurrency against all av
 }
 ```
 
-# Exchange Rate API Documentation
 
-This documentation provides details about the Exchange Rate API endpoints and their usage.
 
 ## Get All Exchange Rates
 
@@ -125,10 +121,6 @@ Retrieve the current exchange rates for all supported cryptocurrency-fiat pairs.
 
 **GET /rates/history/{cryptocurrency}/{fiat}**
 
-
-# Exchange Rate API Documentation
-
-This documentation provides details about the Exchange Rate API endpoints and their usage.
 
 ## Get Exchange Rate History
 
