@@ -1,5 +1,3 @@
-# firebond_assignment
-
 # Exchange Rate API Documentation
 
 This documentation provides details about the Exchange Rate API endpoints and their usage.
@@ -8,7 +6,7 @@ This documentation provides details about the Exchange Rate API endpoints and th
 
 ### Endpoint
 
-`GET /exchange-rate/{cryptocurrency}/{fiat}`
+`GET /rates/{cryptocurrency}/{fiat}`
 
 Retrieve the current exchange rate for a specific cryptocurrency against a fiat currency.
 
@@ -26,7 +24,7 @@ Retrieve the current exchange rate for a specific cryptocurrency against a fiat 
 
 **Request**
 
-`GET /exchange-rate/bitcoin/usd`
+`GET /rates/bitcoin/usd`
 
 **Response**
 
